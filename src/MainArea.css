@@ -1,0 +1,6 @@
+@media (min-width:523.2px){
+    .converter{
+        display: flex;
+        justify-content: center;
+    }
+}

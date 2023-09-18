@@ -1,0 +1,10 @@
+.chartstyle{
+    display: flex;
+    justify-content: center;
+    height: 400px;
+}
+
+.table{
+    padding: 20px;
+    margin:20px
+}
